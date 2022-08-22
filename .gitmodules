@@ -1,0 +1,3 @@
+[submodule "CudaApp/vendor/GLFW"]
+	path = CudaApp/vendor/GLFW
+	url = https://github.com/HiImGiovi/glfw.git
